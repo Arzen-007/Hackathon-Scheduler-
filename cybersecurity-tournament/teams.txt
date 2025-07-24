@@ -1,0 +1,16 @@
+Team Alpha;Alice,Bob;1
+Team Bravo;John,Doe;2
+Cyber Ninjas;Zara,Ali;3
+Hack Hawks;Ahmed,Maria;4
+Red Cell;Usman,Ayesha;5
+Packet Sniffers;Imran,Sana;6
+Team Falcon;Waleed,Nimra;7
+Code Breakers;Bilal,Hira;8
+Bit Busters;Farhan,Laiba;9
+Shadow Hunters;Kashif,Maham;10
+Team Spectre;Hamza,Fatima;11
+Cyber Rippers;Raza,Sadia;12
+Digital Phantoms;Talha,Minahil;13
+Exploit Force;Junaid,Komal;14
+Null Bytes;Saad,Mehwish;15
+Buffer Overrun;Tariq,Noor;16
