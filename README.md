@@ -77,7 +77,7 @@ Cyber Ninjas;Zara,Ali;3
 
 ```bash
 # Clone the repository (or download ZIP)
-git clone https://github.com/yourusername/cybersecurity-tournament.git
+git clone https://github.com/yourusername/cybersecurity-tournament.git](https://github.com/Arzen-007/Hackathon-Scheduler-
 cd cybersecurity-tournament
 
 # Create virtual environment
